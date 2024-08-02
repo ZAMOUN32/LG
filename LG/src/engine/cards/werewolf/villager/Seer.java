@@ -18,3 +18,4 @@ public class Seer extends Cards {
 	}
 }
 
+//
