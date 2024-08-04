@@ -1,5 +1,6 @@
 package engine.cards;
 
+import engine.game.game.player.*;
 
 public abstract class Cards {
 	
@@ -11,7 +12,7 @@ public abstract class Cards {
 	public static final int HYBRID = 3;
 
 	public String name;
-	public String player;
+	public Player player;
 	
 	public int game;
 	public int type;

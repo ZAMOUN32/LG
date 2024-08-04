@@ -87,6 +87,8 @@ public class GamePanel extends GameStat implements Runnable {
 	
 	public void updateInGame() {
 
+		
+		
 	}
 	
 
