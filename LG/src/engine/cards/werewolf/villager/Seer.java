@@ -18,4 +18,4 @@ public class Seer extends Cards {
 	}
 }
 
-//vtf glaofter
+//vtf glaofter huzhfduzhz
