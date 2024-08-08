@@ -1,4 +1,4 @@
-package engine.game.game.game;
+package engine.game.inGame.game;
 
 public class CardDistribution {
 	

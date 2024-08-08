@@ -1,6 +1,6 @@
-package engine.game.game.player;
+package engine.game.inGame.player;
 
-import engine.game.game.player.Player;
+import engine.game.inGame.player.Player;
 
 public class PlayerManager extends Player {
 

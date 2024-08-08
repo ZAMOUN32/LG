@@ -1,9 +1,9 @@
-package engine.game.game.game;
+package engine.game.inGame.game;
 
 import java.util.*;
 
 import engine.cards.*;
-import engine.game.game.player.Player;
+import engine.game.inGame.player.Player;
 
 public abstract class Game {
 

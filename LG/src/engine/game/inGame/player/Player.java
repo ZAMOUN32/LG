@@ -1,4 +1,4 @@
-package engine.game.game.player;
+package engine.game.inGame.player;
 
 public abstract class Player {
 
