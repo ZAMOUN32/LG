@@ -1,4 +1,4 @@
-package engine.cards.werewolf.villager;
+package engine.cards.role.villager;
 
 import engine.cards.*;
 

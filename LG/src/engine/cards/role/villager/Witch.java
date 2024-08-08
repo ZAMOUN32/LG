@@ -1,17 +1,17 @@
-package engine.cards.werewolf.villager;
+package engine.cards.role.villager;
 
 import engine.cards.Cards;
 
-public class Seer extends Cards {
+public class Witch extends Cards {
 
-	public Seer() {
+	public Witch() {
 		
-		this.name = "Seer";
+		this.name = "Witch";
 		
 		this.game = GAME_WEREWOLF;
 		this.type = VILLAGER;
 	}
-
+	
 	@Override
 	public void vote() {
 		

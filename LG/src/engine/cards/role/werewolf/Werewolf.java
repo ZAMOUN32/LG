@@ -1,4 +1,4 @@
-package engine.cards.werewolf.werewolf;
+package engine.cards.role.werewolf;
 
 import engine.cards.Cards;
 
