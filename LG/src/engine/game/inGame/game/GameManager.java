@@ -16,7 +16,7 @@ public class GameManager extends Game {
 		this.players.add(player2);
 		this.players.add(player3);
 		
-		this.nbplayers = this.players.size();
+		this.nbPlayer = this.players.size();
 		
 		Villager card1 = new Villager();
 		Villager card2 = new Villager();
