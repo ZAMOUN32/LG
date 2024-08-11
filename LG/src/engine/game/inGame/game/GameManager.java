@@ -1,7 +1,7 @@
 package engine.game.inGame.game;
 
-import engine.cards.werewolf.villager.*;
-import engine.cards.werewolf.werewolf.*;
+import engine.cards.roleWerewolf.villager.*;
+import engine.cards.roleWerewolf.werewolf.*;
 import engine.game.inGame.player.*;
 
 public class GameManager extends Game {

@@ -1,7 +1,5 @@
 package engine.cards;
 
-import engine.game.game.player.*;
-
 public abstract class Cards {
 	
 	public static final int GAME_WEREWOLF = 0;
