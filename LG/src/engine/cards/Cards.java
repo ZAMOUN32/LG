@@ -12,7 +12,6 @@ public abstract class Cards {
 	public static final int HYBRID = 3;
 
 	public String name;
-	public Player player;
 	
 	public int game;
 	public int type;
