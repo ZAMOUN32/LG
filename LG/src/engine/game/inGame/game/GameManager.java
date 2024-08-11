@@ -25,7 +25,6 @@ public class GameManager extends Game {
 		this.cards.add(card1);
 		this.cards.add(card2);
 		this.cards.add(card3);
-		
-		
+
 	}
 }
