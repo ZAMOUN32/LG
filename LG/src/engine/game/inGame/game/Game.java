@@ -3,7 +3,7 @@ package engine.game.inGame.game;
 import java.util.*;
 
 import engine.cards.*;
-import engine.game.inGame.player.Player;
+import engine.game.inGame.player.*;
 
 public abstract class Game {
 
